@@ -1,4 +1,5 @@
-![Library not ready](https://img.shields.io/badge/Library-not%20ready%20for%20contributions-red)
+> [!WARNING]
+> The library is not in contributions ready state yet , test not exist
 
 # HtmlParser
 
