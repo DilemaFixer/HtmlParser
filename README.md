@@ -1,3 +1,5 @@
+![Library not ready](https://img.shields.io/badge/Library-not%20ready%20for%20contributions-red)
+
 # HtmlParser
 
 A lightweight and flexible HTML parser written in Go that builds an Abstract Syntax Tree (AST) from HTML documents.
